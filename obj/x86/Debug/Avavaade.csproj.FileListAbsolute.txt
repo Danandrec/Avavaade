@@ -243,3 +243,4 @@ c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\obj\x86\Debug\Ruumide
 c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\obj\x86\Debug\Ruumide nimekiri.xaml
 c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\obj\x86\Debug\Ruumide nimekiri.xbf
 c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Ruumide nimekiri.xbf
+C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\obj\x86\Debug\Avavaade.csprojResolveAssemblyReference.cache

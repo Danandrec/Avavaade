@@ -13,21 +13,20 @@
             <RowDefinition Height="90*"></RowDefinition>
         </Grid.RowDefinitions>
         <StackPanel Grid.Row="0">
+            <TextBlock x:ConnectionId='4' Name="block1" TextWrapping="Wrap" FontSize="50"></TextBlock>
             <Button x:ConnectionId='5' Name="Back_Button" Content="TAGASI"                           Width="100"></Button>
         </StackPanel>
         <StackPanel Grid.Row="1"></StackPanel>
 
-        <ListView x:ConnectionId='1' Name="GroupView" Grid.Row="1">
-            <ListView.ItemTemplate>
+        <GridView x:ConnectionId='1' Name="GroupView" Grid.Row="1">
+            <GridView.ItemTemplate>
                 <DataTemplate                                 >
                     <StackPanel x:ConnectionId='2'>
-                        <TextBlock x:ConnectionId='3'                    FontSize="20"></TextBlock>
-                        <TextBlock x:ConnectionId='4'                      FontSize="20"></TextBlock>
-                        <TextBlock Margin="5,5,5,5"></TextBlock>
+                        <Button x:ConnectionId='3'                                           IsEnabled="True"                       ></Button>
                     </StackPanel>
                 </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
+            </GridView.ItemTemplate>
+        </GridView>
     </Grid>
 </Page>
 

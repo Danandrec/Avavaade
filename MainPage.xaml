@@ -16,15 +16,6 @@
                     </Viewbox>
                 </Button>
                 <StackPanel Orientation="Horizontal">
-                    <Button x:Name="Tunniplaan" Click="Tunniplaan_Click">
-                        <Viewbox MaxHeight="100" MaxWidth="100">
-                            <SymbolIcon Symbol="Clock"></SymbolIcon>
-                        </Viewbox>
-                    </Button>
-                    <TextBlock Text="Tunniplaan" FontSize="25" VerticalAlignment="Center" Margin="20,0,0,0" />
-                    <Frame Name="TunniplaanFrame"></Frame>
-                </StackPanel>
-                <StackPanel Orientation="Horizontal">
                     <Button x:Name="Nimekiri" Click="Nimekiri_Click">
                         <Viewbox MaxHeight="100" MaxWidth="100">
                             <SymbolIcon Symbol="People"></SymbolIcon>

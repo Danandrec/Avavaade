@@ -16,15 +16,6 @@
                     </Viewbox>
                 </Button>
                 <StackPanel Orientation="Horizontal">
-                    <Button x:ConnectionId='7' x:Name="Tunniplaan"                         >
-                        <Viewbox MaxHeight="100" MaxWidth="100">
-                            <SymbolIcon Symbol="Clock"></SymbolIcon>
-                        </Viewbox>
-                    </Button>
-                    <TextBlock Text="Tunniplaan" FontSize="25" VerticalAlignment="Center" Margin="20,0,0,0" />
-                    <Frame x:ConnectionId='8' Name="TunniplaanFrame"></Frame>
-                </StackPanel>
-                <StackPanel Orientation="Horizontal">
                     <Button x:ConnectionId='6' x:Name="Nimekiri"                       >
                         <Viewbox MaxHeight="100" MaxWidth="100">
                             <SymbolIcon Symbol="People"></SymbolIcon>
@@ -62,7 +53,7 @@
             <Grid>
                 <Image Source="Assets/HEHEHE.png" Margin="651,704,0,2"/>
                 <TextBlock Text="Viljandi Kutseõppekeskus" FontSize="100" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center"></TextBlock>
-                <Frame x:ConnectionId='9' Name="Avaleht"></Frame>
+                <Frame x:ConnectionId='7' Name="Avaleht"></Frame>
             </Grid>
         </SplitView.Content>
     </SplitView>

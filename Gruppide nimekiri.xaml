@@ -13,20 +13,19 @@
             <RowDefinition Height="90*"></RowDefinition>
         </Grid.RowDefinitions>
         <StackPanel Grid.Row="0">
+            <TextBlock Name="block1" TextWrapping="Wrap" FontSize="50"></TextBlock>
             <Button Name="Back_Button" Content="TAGASI" Click="Back_Button_Click" Width="100"></Button>
         </StackPanel>
         <StackPanel Grid.Row="1"></StackPanel>
 
-        <ListView Name="GroupView" Grid.Row="1">
-            <ListView.ItemTemplate>
+        <GridView Name="GroupView" Grid.Row="1">
+            <GridView.ItemTemplate>
                 <DataTemplate x:DataType="local:GroupNimekiri">
                     <StackPanel>
-                        <TextBlock Text="{x:Bind id}" FontSize="20"></TextBlock>
-                        <TextBlock Text="{x:Bind nimi}" FontSize="20"></TextBlock>
-                        <TextBlock Margin="5,5,5,5"></TextBlock>
+                        <Button Content="{x:Bind nimi}" Tag="{x:Bind id}" IsEnabled="True" Click="Button_Click_1"></Button>
                     </StackPanel>
                 </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
+            </GridView.ItemTemplate>
+        </GridView>
     </Grid>
 </Page>

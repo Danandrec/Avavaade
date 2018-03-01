@@ -27832,11 +27832,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\dan-andre.leesment\\source\\repos\\Avavaade\\Avavaade\\Avavaade.csproj",
+      "projectUniqueName": "C:\\Users\\dan-andre.leesment\\source\\repos\\Avavaade\\Avavaade\\Avavaade.csproj",
       "projectName": "Avavaade",
-      "projectPath": "c:\\users\\dan-andre.leesment\\source\\repos\\Avavaade\\Avavaade\\Avavaade.csproj",
+      "projectPath": "C:\\Users\\dan-andre.leesment\\source\\repos\\Avavaade\\Avavaade\\Avavaade.csproj",
       "packagesPath": "C:\\Users\\dan-andre.leesment\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\dan-andre.leesment\\source\\repos\\Avavaade\\Avavaade\\obj\\",
+      "outputPath": "C:\\Users\\dan-andre.leesment\\source\\repos\\Avavaade\\Avavaade\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

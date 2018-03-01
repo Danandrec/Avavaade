@@ -68,6 +68,13 @@ namespace Avavaade
         public List<Neljapaev> neljapaev { get; set; }
         public List<Reede> reede { get; set; }
     }
+        public class RootTunnidObject
+        {
+            public string nadal { get; set; }
+            public Tunnid tunnid { get; set; }
+            public string viimane_muudatus { get; set; }
+        }
+
 }
 
 

@@ -40,10 +40,25 @@ namespace Avavaade
             GroupView.ItemsSource = jsondata.grupp;
 
         }
-
         private void Back_Button_Click(object sender, RoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(MainPage));
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(Tunniplaani_vaade));
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            var grupp = (Button)sender;
+            block1.Text = grupp.Tag.ToString();
+            block1.Text = grupp.Content.ToString();
+
+            var id = grupp.Tag;
+
+            this.Frame.Navigate(typeof(Tunniplaani_vaade), id);
         }
     }
 }

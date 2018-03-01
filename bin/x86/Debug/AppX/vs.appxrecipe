@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>cc790d61-44c5-4035-ac61-7a1ac61a12ba</PackageIdentityName>
     <PackageIdentityPublisher>CN=dan-andre.leesment</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>9AE4C7A82D99D38501C71FE1E7ABAFC436A3C196B5D1605FCBB52D7741D87EE4</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>cc790d61-44c5-4035-ac61-7a1ac61a12ba_1.0.0.0_x86__2v1a576zphan8</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>cc790d61-44c5-4035-ac61-7a1ac61a12ba_2v1a576zphan8!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-28T12:43:10.270</Modified>
+      <Modified>2018-03-01T14:21:44.480</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Avavaade.exe">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Avavaade.exe">
       <PackagePath>entrypoint\Avavaade.exe</PackagePath>
-      <Modified>2018-02-28T12:43:09.594</Modified>
+      <Modified>2018-03-01T14:21:43.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dan-andre.leesment\.nuget\packages\microsoft.csharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -527,64 +527,64 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T20:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\HEHEHE.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\HEHEHE.png">
       <PackagePath>Assets\HEHEHE.png</PackagePath>
       <Modified>2018-02-28T12:37:27.287</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-02-26T07:19:57.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-02-26T07:19:57.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-02-26T07:19:57.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-02-26T07:19:57.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-02-26T07:19:57.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-02-26T07:19:57.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-02-26T07:19:57.127</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-02-28T07:22:11.994</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Avavaade.xr.xml">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Avavaade.xr.xml">
       <PackagePath>Avavaade.xr.xml</PackagePath>
-      <Modified>2018-02-28T12:38:17.003</Modified>
+      <Modified>2018-03-01T14:21:43.189</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-09-28T15:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-28T12:43:10.068</Modified>
+      <Modified>2018-03-01T14:21:44.214</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Core\Avavaade.exe">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Core\Avavaade.exe">
       <PackagePath>Avavaade.exe</PackagePath>
-      <Modified>2018-02-28T12:43:10.262</Modified>
+      <Modified>2018-03-01T14:21:44.454</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

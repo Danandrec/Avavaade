@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>cc790d61-44c5-4035-ac61-7a1ac61a12ba</PackageIdentityName>
     <PackageIdentityPublisher>CN=dan-andre.leesment</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Avavaade.exe">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Avavaade.exe">
       <PackagePath>entrypoint\Avavaade.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dan-andre.leesment\.nuget\packages\microsoft.csharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -394,50 +394,50 @@
     <AppxPackagedFile Include="C:\Users\dan-andre.leesment\.nuget\packages\system.xml.xmlserializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\HEHEHE.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\HEHEHE.png">
       <PackagePath>Assets\HEHEHE.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Avavaade.xr.xml">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Avavaade.xr.xml">
       <PackagePath>Avavaade.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Core\Avavaade.exe">
+    <AppxPackagedFile Include="C:\Users\dan-andre.leesment\source\repos\Avavaade\Avavaade\bin\x86\Debug\Core\Avavaade.exe">
       <PackagePath>Avavaade.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
